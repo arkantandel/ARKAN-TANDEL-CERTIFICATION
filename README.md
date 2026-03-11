@@ -27,7 +27,7 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-![Claude with Google Cloud Vertex AI](certificates/cert_vertex_ai.png)
+![Claude with Google Cloud Vertex AI](Certificates/cert_vertex_ai.png)
 
 ---
 
@@ -38,7 +38,7 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-6C3483?style=flat-square&logoColor=white)
 
-![Introduction to Model Context Protocol](certificates/cert_mcp.png)
+![Introduction to Model Context Protocol](Certificates/cert_mcp.png)
 
 ---
 
@@ -49,7 +49,7 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-![Claude with Amazon Bedrock](certificates/cert_bedrock.png)
+![Claude with Amazon Bedrock](Certificates/cert_bedrock.png)
 
 ---
 
@@ -59,7 +59,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Forage](https://img.shields.io/badge/Forage-F97316?style=flat-square)
 
-![AWS Solutions Architecture Simulation](certificates/cert_aws_arch.png)
+![AWS Solutions Architecture Simulation](Certificates/cert_aws_arch.png)
 
 ---
 
@@ -69,7 +69,7 @@
 ![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square)
 ![Forage](https://img.shields.io/badge/Forage-F97316?style=flat-square)
 
-> 📄 *[View Certificate PDF](certificates/cert_deloitte.pdf)*
+📄 [View Certificate PDF](Certificates/cert_deloitte.pdf.pdf)
 
 ---
 
